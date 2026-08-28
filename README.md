@@ -58,12 +58,25 @@ nmap -A -T5 192.168.10.1
 
 
 ---
+---
 
-## 📷 Screenshots & Evidence
+### 📷 Screenshots & Configuration Evidence
 
-### pfSense Dashboard
-![Dashboard](IMG_9478.jpeg)
+#### 1. pfSense Dashboard Overview
+![pfSense Dashboard](IMG_9478.jpeg)
 
-### Snort Real-Time Alerts
+#### 2. LAN Firewall Rules Configuration
+![LAN Firewall Rules](اسم_صورة_قواعد_اللان.png)
+
+#### 3. Snort IDS/IPS Interface Setup
+![Snort Interface](اسم_صورة_اعدادات_سنورت.png)
+
+#### 4. Nmap Attack Simulation & Port Scan
+![Nmap Scan](اسم_صورة_فحص_نكست.png)
+
+#### 5. Snort Real-Time Attack Alerts
 ![Snort Alerts](IMG_9479.jpeg)
+
+#### 6. pfBlockerNG DNSBL Blocking List
+![pfBlockerNG List](اسم_صورة_القائمة_المحظورة.png)
 
