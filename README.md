@@ -60,8 +60,8 @@ nmap -A -T5 192.168.10.1
 ## 📷 Screenshots & Evidence
 
 ### pfSense Dashboard
-![Dashboard](images/dashboard.png)
+![Dashboard](IMG_9478.jpeg)
 
 ### Snort Real-Time Alerts
-![Snort Alerts](images/images/snort-alerts.png)
+![Snort Alerts](IMG_9479.jpeg)
 
