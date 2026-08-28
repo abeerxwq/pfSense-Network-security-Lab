@@ -46,6 +46,7 @@ nmap -A -T5 192.168.10.1
  Alert Logging: Live alerts generated under the Snort Alerts tab specifying the source attacker IP (⁠192.168.10.50⁠).
  Active Mitigation: Automatic temporary block applied to the attacker IP.
 
+
 🛠️ Tools & Technologies Used
  Firewall / Router: pfSense Community Edition
  IDS/IPS Engine: Snort
@@ -53,6 +54,7 @@ nmap -A -T5 192.168.10.1
  Attacker Machine: Kali Linux
  Reconnaissance Tool: Nmap
  Hypervisor: Oracle VirtualBox
+
 ---
 
 ## 📷 Screenshots & Evidence
