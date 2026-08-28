@@ -47,13 +47,14 @@ nmap -A -T5 192.168.10.1
  Active Mitigation: Automatic temporary block applied to the attacker IP.
 
 
-🛠️ Tools & Technologies Used
- Firewall / Router: pfSense Community Edition
- IDS/IPS Engine: Snort
- Content Filter: pfBlockerNG
- Attacker Machine: Kali Linux
- Reconnaissance Tool: Nmap
- Hypervisor: Oracle VirtualBox
+### 🛠️ Tools & Technologies Used
+* **Firewall / Router:** pfSense Community Edition
+* **IDS/IPS Engine:** Snort
+* **Content Filter:** pfBlockerNG
+* **Attacker Machine:** Kali Linux
+* **Reconnaissance Tool:** Nmap
+* **Hypervisor:** Oracle VirtualBox
+
 
 ---
 
