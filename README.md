@@ -41,9 +41,11 @@ To test the security posture and verify the effectiveness of the Snort IDS/IPS e
 nmap -A -T5 192.168.10.1
 ```
 📊 Verification Results
+
  Detection: Snort captured the incoming malicious pattern (⁠http_inspect: UNKNOWN METHOD / TOO MANY PIPELINED REQUESTS⁠).
  Alert Logging: Live alerts generated under the Snort Alerts tab specifying the source attacker IP (⁠192.168.10.50⁠).
  Active Mitigation: Automatic temporary block applied to the attacker IP.
+
 🛠️ Tools & Technologies Used
  Firewall / Router: pfSense Community Edition
  IDS/IPS Engine: Snort
